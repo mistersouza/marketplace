@@ -13,6 +13,8 @@
 
 /* other css file imports */
 @import url("item.css");
+@import url("contact.css");
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
