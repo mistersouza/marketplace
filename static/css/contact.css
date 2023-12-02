@@ -7726,7 +7726,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.8;
   font-weight: normal;
@@ -7734,28 +7734,18 @@ body {
   color: #666666; 
 }
 
-a {
-  -webkit-transition: .3s all ease;
-  -o-transition: .3s all ease;
-  transition: .3s all ease;
-  color: #71a95a; }
-  a:hover, a:focus {
-    text-decoration: none !important;
-    outline: none !important;
-    -webkit-box-shadow: none;
-    box-shadow: none; }
-
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
   font-weight: 400;
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
   color: #000; }
 
 .bg-primary {
   background: #71a95a !important; }
 
 .ftco-section {
+  height: 84vh;
   padding: 7em 0; 
 }
 
@@ -7843,7 +7833,7 @@ textarea.form-control {
 .contactForm .label {
   color: #000;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 600; }
 
 .contactForm .form-control {
