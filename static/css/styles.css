@@ -12,6 +12,7 @@
  */
 
 /* other css file imports */
+@import url('item_detail.css');
 @import url("item.css");
 @import url("contact.css");
 
